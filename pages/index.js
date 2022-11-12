@@ -68,6 +68,7 @@ function Timeline(props) {
 					const videos = props.playlists[playlistName]
 					return (
 						<section>
+							<h1> Hihihi, agora conseguimos fazer aplicações e colocá-las em produção! :)</h1>
 							<h2>{playlistName}</h2>
 							<div>
 								{
